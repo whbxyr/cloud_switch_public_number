@@ -1,0 +1,32 @@
+[ 2016-10-23T15:26:16+08:00 ] 10.30.12.226 /TP3.1.3/test.php/Index/index?signature=ab0885b400cb26284bf0ee07d5977a693070c4c8&timestamp=1477207575&nonce=1183511674&openid=o_GxCwXSwxUNJ78Oy1R1_TmAMgwE
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003321s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003814s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003706s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004253s ]
+NOTIC: [8] Undefined index: echostr F:\wamp\www\TP3.1.3\Test\Lib\Action\IndexAction.class.php 第 12 行.
+NOTIC: [8] Undefined variable: header F:\wamp\www\TP3.1.3\Test\Lib\Action\IndexAction.class.php 第 375 行.
+
+[ 2016-10-23T15:26:25+08:00 ] 10.30.12.226 /TP3.1.3/test.php/Index/index?signature=9398a4632032b8ff1f58b01798d6daec6056d210&timestamp=1477207584&nonce=1991667734&openid=o_GxCwXSwxUNJ78Oy1R1_TmAMgwE
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001759s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002099s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000806s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001012s ]
+NOTIC: [8] Undefined index: echostr F:\wamp\www\TP3.1.3\Test\Lib\Action\IndexAction.class.php 第 12 行.
+NOTIC: [8] Undefined variable: header F:\wamp\www\TP3.1.3\Test\Lib\Action\IndexAction.class.php 第 375 行.
+
+[ 2016-10-23T15:26:31+08:00 ] 10.30.12.226 /TP3.1.3/test.php/Index/index?signature=d175b3a31f6852390880fce84a5dac434ad7d8b7&timestamp=1477207592&nonce=1918979562&openid=o_GxCwXSwxUNJ78Oy1R1_TmAMgwE
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001942s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002397s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001588s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001998s ]
+NOTIC: [8] Undefined index: echostr F:\wamp\www\TP3.1.3\Test\Lib\Action\IndexAction.class.php 第 12 行.
+

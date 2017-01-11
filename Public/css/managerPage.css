@@ -1,0 +1,25 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+	padding: 8px 5px;
+	background-color: #3C3C3C;
+}
+.contentshow tr:first-child td {
+	color: #f00;
+	font-size: 30px;
+}
+.contentshow {
+    margin: 20px auto;
+}
+.contentshow td {
+	color: #C3C3C3;
+	background-color: #2F2F2F;
+	padding: 5px 15px;
+	font-size: 14px;
+	font-weight: bold;
+}
+.contentshow td:hover {
+	background-color: #272728;
+}

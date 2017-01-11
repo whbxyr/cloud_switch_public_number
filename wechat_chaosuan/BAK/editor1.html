@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>管理员文章编辑</title>
+    <script src="./tinymce/js/tinymce/tinymce.min.js"></script>
+    <script src="./js/event.js"></script>
+    <script src="./js/htmlcode.js"></script>
+    <link rel="stylesheet" href="./main.css">
+    <link rel="stylesheet" href="./clock.css">
+</head>
+<body>
+    <div id="result" style="margin-top: -27px;" class="tip"></div>
+    <div style="background-color: #252525; height: 120px; position: relative;">
+    	<div class="man"></div>
+        <span  class="logo"></span>
+        <div class="subtitle">超算生活，弹指之间<br>笔墨文章，彰显科技</div>
+	    <div id="fancyClock">
+		    <div class="orange clock">
+		        <div class="display" id="hours">00</div>
+		        <div class="front left"></div>
+		        <div class="rotate left" id="orangeRotateLeft">
+		            <div class="bg left"></div>
+		        </div>
+		        <div class="rotate right" id="orangeRotateRight">
+		            <div class="bg right"></div>
+		        </div>
+		    </div>
+		    <div class="blue clock">
+		        <div class="display" id="minuts">00</div>
+		        <div class="front left"></div>
+		        <div class="rotate left" id="blueRotateLeft">
+		            <div class="bg left"></div>
+		        </div>
+		        <div class="rotate right" id="blueRotateRight">
+		            <div class="bg right"></div>
+		        </div>
+		    </div>
+		    <div class="green clock">
+		        <div class="display" id="seconds">00</div>
+		        <div class="front left"></div>
+		        <div class="rotate left" id="greenRotateLeft">
+		            <div class="bg left"></div>
+		        </div>
+		        <div class="rotate right" id="greenRotateRight">
+		            <div class="bg right"></div>
+		        </div>
+		    </div>
+	    </div>
+	</div>
+	<span style="display: inline-block; background-image: url(./images/side_background.jpg); background-repeat: no-repeat; background-size: 100% 100%; border-radius: 4px; margin-top: 10px; margin-left: 80px;">
+	    <div style="margin-top: 5px; padding: 10px;">
+	        <label for="kindchoose" class="inputlabel">请选择您要编辑的文章类型：</label>
+	        <br>
+	        <div class="choose">
+	            <input id="kindchoose" type="text" placeholder="超算生活">
+	            <div style="overflow: hidden; height: 42px;">
+		            <ul id="tabchoose" style="margin-top: -42px;">
+		                <li id="chaosuan" style="border-bottom: 1px solid #000;">超算生活</li>
+		                <li id="qianyan">前沿科技</li>
+		            </ul>
+		        </div>
+	        </div>
+	        <label for="title" class="inputlabel">请输入文章标题：</label>
+	        <br>
+	        <div class="choose">
+	            <input type="text" id="title" class="cover_title" placeholder="文章标题">
+	        </div>
+	        <label for="cover" class="inputlabel">以下输入封面图片链接：</label>
+	        <br>
+	        <div class="choose">
+                <input type="text" id="cover" class="cover_title" placeholder="图片链接">
+                <input type="button" id="coversure" value="确定">
+	        </div>
+	        <div id="covershow" class="coverimg" placeholder="缩略图"></div>
+	    </div>
+	</span>
+	<div style="margin-top: 5px; margin-left: 80px;">
+	    <input id="handin" type="button" value="提交">
+	</div>
+	<script>
+	    EventUtil.addHandler(document.getElementById('coversure'), 'click', function () {
+            var covershow = document.getElementById('covershow');
+            var source = document.getElementById('cover').value;
+            covershow.style.backgroundImage = 'url(' + source + ')';
+            covershow.style.backgroundRepeat = 'no-repeat';
+            covershow.style.backgroundSize = '100% 100%';
+	    });
+	    var chooseanimated = false;
+	    EventUtil.addHandler(document.getElementById('kindchoose'), 'click', function () {
+	    	var tabchoose = document.getElementById('tabchoose');
+	    	var intimer = null;
+	    	if (!chooseanimated) {
+	    	    intimer = setInterval(function () {
+		    		if (parseInt(tabchoose.style.marginTop) < 0) {
+		                var nowMargintop = parseInt(tabchoose.style.marginTop) + 2;
+		                tabchoose.style.marginTop = nowMargintop + 'px';
+		                chooseanimated = true;
+		            }
+		            if (parseInt(tabchoose.style.marginTop) === 0) {
+                    clearInterval(intimer);
+                    chooseanimated = false;
+                    }
+	    	    }, 1);
+	    	}
+	    });
+	    EventUtil.addHandler(document.getElementById('kindchoose'), 'click', function () {
+	    	var tabchoose = document.getElementById('tabchoose');
+	    	var outtimer = null;
+	    	if (!chooseanimated) {
+	    		chooseanimated = true;
+		    	outtimer = setInterval(function () {
+		            var nowMargintop = parseInt(tabchoose.style.marginTop) - 2;
+		            tabchoose.style.marginTop = nowMargintop + 'px';
+	                if (nowMargintop === -42) {
+	                    clearInterval(outtimer);
+	                    chooseanimated = false;
+	                }
+		    	}, 1);
+		    }
+	    });
+	    
+	    EventUtil.addHandler(document.getElementById('chaosuan'), 'click', function () {
+	    	document.getElementById('kindchoose').value = document.getElementById('chaosuan').innerHTML;
+	    	document.getElementById('kindchoose').click();
+	    });
+	    
+	    EventUtil.addHandler(document.getElementById('qianyan'), 'click', function () {
+	    	document.getElementById('kindchoose').value = document.getElementById('qianyan').innerHTML;
+	    	document.getElementById('kindchoose').click();
+	    });
+	</script>
+    <div style="position: absolute; left: 500px; top: 130px;"><textarea id="editor" name="content"></textarea></div>
+</body>
+</html>
+<script src="./js/clock.js"></script>
+<script>
+	tinymce.init({
+            selector: '#editor',
+            height: 350,
+            width: 700,
+            theme: 'modern',
+            mode: 'textareas',
+            language: 'zh_CN',
+            plugins: [
+                    'advlist autolink lists link image charmap print preview hr anchor pagebreak',
+		            'searchreplace wordcount visualblocks visualchars code fullscreen',
+		            'insertdatetime media nonbreaking save table contextmenu directionality',
+		            'emoticons template paste textcolor colorpicker textpattern imagetools'
+		            ],
+		    toolbar1: 'insertfile undo redo | styleselect | bold italic | alignleft aligncenter alignright alignjustify | bullist numlist outdent indent | link image',
+		    toolbar2: 'print preview media | forecolor backcolor emoticons',
+		    image_advtab: true,
+		    templates: [
+		        {title: 'Test template 1', content: 'Test 1'},
+		        {title: 'Test template 2', content: 'Test 2'}
+		        ],
+		    content_css: [
+		        '//fonts.googleapis.com/css?family=Lato:300,300i,400,400i',
+		        '//www.tinymce.com/css/codepen.min.css'
+		        ]
+    });
+    /*
+    EventUtil.addHandler(document.getElementById('handin'), 'click', function () {
+    	console.log(HtmlUtil.htmlEncode(tinyMCE.activeEditor.getContent()));
+    	console.log(HtmlUtil.htmlDecode(HtmlUtil.htmlEncode(tinyMCE.activeEditor.getContent())));
+    });
+    */
+    /*
+    EventUtil.addHandler(document.getElementById('handin'), 'click', function () {
+    	console.log(typeof HtmlUtil.htmlEncode(tinyMCE.activeEditor.getContent()) + ' ' + tinyMCE.activeEditor.getContent());
+    });
+    */
+    // 标志位，确定是否保存所编辑的文章
+    var artsaved;
+    EventUtil.addHandler(document.getElementById('handin'), 'click', function () {
+        // 选择是否保存正在编辑的文章
+        artsaved = confirm('您确定要保存这篇文章吗？');
+        // 如果选择不保存，则有相关的提示
+        if (!artsaved) {
+        	document.getElementById('result').innerHTML = '您取消了文章编辑！';
+        }
+    });
+    EventUtil.addHandler(document.getElementById('handin'), 'click', function () {
+    	// 若选择保存，则插入数据库
+    	// 否则，不执行任何与数据库有关的操作
+    	if (artsaved) {
+		    var request = new XMLHttpRequest();
+		    request.open('POST', 'articleToDB.php');
+		    // ajax传过去的参数都会被处理为字符串，因此不需要再将参数转换为字符串
+		    // 先进行“去换行符”操作，再进行html编码，使用的是浏览器内部转换器
+		    // tinyMCE.activeEditor.getContent()方法会在我们写的文章里面的每一个\前再加一个\
+		    var article = HtmlUtil.htmlEncode((tinyMCE.activeEditor.getContent()).replace(/[\n]/ig, ''));
+		    // 当我们在文章里只写了一个\时，
+		    // tinyMCE.activeEditor.getContent()方法给我们多加了一个\
+		    // 此时就有了两个\，但是正则表达式不会匹配第一个作为转义字符作用的反斜杠'\'，
+		    // 在用正则表达式匹配字符串时，转义符相当于不存在
+		    // 因此在这里用正则匹配时就只需要4个转义符
+		    // 用replace()方法将其替换为4个\
+		    // 即符合mysql数据库3个转义符转义一个字符的规则
+		    article = article.replace(/\\/g, '\\\\');
+		    // 在插入数据库时，3个转义字符转义一个字符，
+		    // 此处是对"进行处理，方便插入数据库
+		    article = article.replace(/["]/g, '\\\"');
+		    // 在js中，1个转义字符转义一个字符
+		    // console.log('编码前：' + article);
+		    // 对处理完的字符串进行最终的编码，去除取值符等敏感字符对ajax传值的影响
+		    article = encodeURIComponent(article);
+		    // 拼接请求主体
+		    var data = 'article=' + article;
+		    // POST请求方式必须设置的请求头格式
+		    request.setRequestHeader('Content-type', 'application/x-www-form-urlencoded');
+		    request.send(data);
+		    request.onreadystatechange = function () {
+		    	if (request.readyState === 4) {
+		    		if (request.status === 200) {
+		    			// 文章没有编辑、文章插入数据库失败
+		    			// 或者文章插入数据库成功都是用以下处理方式
+		    			document.getElementById('result').innerHTML = request.responseText;
+		    		}
+		    		else {
+		    			// 当请求不到数据时就会导致错误，用以下方法显示
+		    			alert('发生错误：' + request.status);
+		    		}
+		    	}
+		    }
+		}
+	});
+	// 初始化提示框进入计时器
+	var tipintimer = null;
+	// 初始化提示框离开计时器
+	var tipouttimer = null;
+	EventUtil.addHandler(document.getElementById('handin'), 'click', function () {
+		if (tipintimer) {
+			clearInterval(tipintimer);
+			document.getElementById('result').style.marginTop = -27 + 'px';
+		}
+		if (tipouttimer) {
+			clearInterval(tipouttimer);
+			document.getElementById('result').style.marginTop = -27 + 'px';
+		}
+		// 标志位，因为两个动画只能有一个在进行
+		var animated = true;
+		tipintimer = setInterval(function () {
+		    // 获取提示框的DOM
+		    var result = document.getElementById('result');
+		    // 逐渐下拉，以1px为单位
+		    var top = parseInt(result.style.marginTop) + 1;
+		    result.style.marginTop = top + 'px';
+	        // 进入动画完成
+	        if (top === 0) {
+	         	// 让提示框停留3秒
+	           	setTimeout(function () {
+	           		// 修改标志位，以便离开动画执行
+	           		animated = false;
+	           	}, 3000);
+	           	// 清除进入动画计时器
+	           	clearInterval(tipintimer);
+	        }
+		}, 10);
+		tipouttimer = setInterval(function () {
+		  	// 当标志位符合false时，执行离开动画
+		    if (!animated) {
+		      	// 获取提示框的DOM
+		        var result = document.getElementById('result');
+		        // 逐渐上提，以-1px为单位
+		        var top = parseInt(result.style.marginTop) - 1;
+		        result.style.marginTop = top + 'px';
+		        // 离开动画完成
+		        if (top === -27) {
+		          	// 清除离开动画计时器
+		          	clearInterval(tipouttimer);
+		        }
+		    }
+		}, 10);
+    });
+</script>

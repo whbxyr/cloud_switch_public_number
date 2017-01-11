@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>download</title>
+	<link rel="stylesheet" href="./download.css">
+	<link rel="stylesheet" href="./weui.css">
+	<link rel="shortcut icon" href="./images/favicon.ico">
+</head>
+<body>
+	<div class="container">
+		<div id="loadingToast" class="weui_loading_toast" style="display: none;">
+			<div class="weui_mask_transparent"></div>
+			<div class="weui_toast">
+			    <div class="weui_loading">
+			        <div class="weui_loading_leaf weui_loading_leaf_0"></div>
+			        <div class="weui_loading_leaf weui_loading_leaf_1"></div>
+			        <div class="weui_loading_leaf weui_loading_leaf_2"></div>
+			        <div class="weui_loading_leaf weui_loading_leaf_3"></div>
+			        <div class="weui_loading_leaf weui_loading_leaf_4"></div>
+			        <div class="weui_loading_leaf weui_loading_leaf_5"></div>
+			        <div class="weui_loading_leaf weui_loading_leaf_6"></div>
+			        <div class="weui_loading_leaf weui_loading_leaf_7"></div>
+			        <div class="weui_loading_leaf weui_loading_leaf_8"></div>
+			        <div class="weui_loading_leaf weui_loading_leaf_9"></div>
+			        <div class="weui_loading_leaf weui_loading_leaf_10"></div>
+			        <div class="weui_loading_leaf weui_loading_leaf_11"></div>
+			    </div>
+			    <p class="weui_toast_content">数据加载中</p>
+			</div>
+		</div>
+		<div class="content">
+			<div class="header">
+				<div class="banner"></div>
+			</div>
+			<div class="tab">
+				<div class="tab_hd">
+					<div class="tab_hd_inner">
+						<div class="item active" data-index="0">全部</div>
+						<div class="item" data-index="1">并行</div>
+					</div>
+				</div>
+				<div class="tab_bd">
+					<div id="dl_list_0" class="dl_list">
+						<div class="list_item">
+							<a href="#" class="anchor">
+								<p class="title">资源下载1</p>
+							</a>
+							<p class="description">资源下载说明</p>	
+						</div>
+						<div class="list_item">
+							<a href="#" class="anchor">
+								<p class="title">资源下载1</p>
+							</a>
+							<p class="description">资源下载说明</p>	
+						</div>
+						<div class="list_item">
+							<a href="#" class="anchor">
+								<p class="title">资源下载1</p>
+							</a>
+							<p class="description">资源下载说明</p>	
+						</div>
+					</div>
+					<div id="dl_list_1" class="dl_list"style="display: none;"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<script src="http://libs.baidu.com/jquery/2.1.4/jquery.min.js"></script>
+	<!--<script src="./download.js"></script>-->
+	<script>
+	var downloadMap = {       //全局变量，文章板块信息
+		downloadList0: {
+			id: 'dl_list_0',
+			i: 0,
+			gPagesize: 10,
+			load: true,
+		},
+		downloadList1: {
+			id: 'dl_list_1',
+			i: 0,
+			gPagesize: 10,
+			load: true,
+		},
+	
+	};
+	var currentDowList = downloadMap.downloadList0;     //全局变量，当前文章板块
+
+$(document).ready(function () {
+	var items = $('div[class^="item"]');
+	// 为每个板块添加事件处理
+	$.each(items, function (name, value) {
+		$(items[name]).click(function() {
+			var now = 'dl_list_' + this.dataset.index;
+			// console.log(typeof now);
+			if(now != currentDowList.id) {
+				$.each(items, function (n, v) {
+					// 将全部板块名字变黑色
+					items[n].className = 'item';
+					// 将全部文章隐藏掉
+					$('#dl_list_' + items[n].dataset.index).attr('style', 'display:none;');
+				});
+				// 显示板块对应的文章
+				$('#dl_list_' + this.dataset.index).attr('style', 'display:block;');
+				var dowListId = "downloadList" + this.dataset.index;
+				currentDowList = downloadMap[dowListId];
+				getData(currentDowList);
+				this.className = 'item active';
+			}
+		});
+	});
+
+    /**
+	 * 获取文章
+	 * listId string without '#' */ 
+	function getData(listId) {
+		listId.i++;
+		var $listId = listId.id;
+		$.ajax({
+			type: "post",
+			url: "source.json",
+			data: {pageSize: listId.gPagesize, pageNum: listId.i},
+			dataType: "json",
+			success: function (data) {
+				$("#loadingToast").hide();
+				if (data.length > 0) {
+					// console.log(data.length);
+					insert(data, $listId);
+				} else {
+					listId.load = false;
+				}
+			},
+			beforeSend: function () {
+				$("#loadingToast").show();
+			},
+			error: function () {
+				$("#loadingToast").hide();
+			}
+		});
+	}
+
+	getData(downloadMap.downloadList0);/*load the first section when starting*/
+
+/**
+ * result string 
+ * listId string without '#'
+ */
+	function insert(result, listId) {
+		var str = '';
+		$.each(result, function (name, value) {
+			str += '<div class="list_item"><a href="' + result[name].href + '" class="anchor">';
+			str += '<p class="title">' + result[name].title + '</p></a>';
+			str += '<p class="description">' + result[name].des + '</p></div>';
+		});
+		$('#' + listId).append(str);
+	};
+	
+	/**
+	 * 下滑自动加载文章
+	 */
+	// 可视区的高度
+	var winH = $(window).height();
+	var limited = 0.05;
+	$(window).scroll(function () {
+		// 文档的高度
+		var pageH = $(document.body).height();
+		// 滚动条距离书签栏的高度
+		// var scrollT = document.documentElement.scrollTop || document.body.scrollTop;
+		var scrollT = $(window).scrollTop();
+		// 
+		var dis = (pageH - scrollT - winH) / winH;
+		// console.log(dis);
+		if (dis < limited && currentDowList.load) {
+			getData(currentDowList);
+		}
+	});
+});
+
+	</script>
+</body>
+</html>

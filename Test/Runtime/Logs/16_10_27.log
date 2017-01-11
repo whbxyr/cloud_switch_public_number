@@ -1,0 +1,1036 @@
+[ 2016-10-27T12:38:08+08:00 ] 10.21.71.124 /TP3.1.3/test.php/Index/index?signature=93522f733e33fe0de8264d90e8daf4d8d783dd56&timestamp=1477543088&nonce=952709760&openid=o_GxCwXSwxUNJ78Oy1R1_TmAMgwE
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001492s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001785s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000842s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001021s ]
+NOTIC: [8] Undefined index: echostr F:\wamp\www\TP3.1.3\Test\Lib\Action\IndexAction.class.php 第 12 行.
+NOTIC: [8] Undefined variable: header F:\wamp\www\TP3.1.3\Test\Lib\Action\IndexAction.class.php 第 464 行.
+
+[ 2016-10-27T12:38:33+08:00 ] 10.21.71.124 /TP3.1.3/test.php/Index/index?signature=3a4a06788a4731e67ee4f15067158d65e41e77ac&timestamp=1477543107&nonce=1252818825&openid=o_GxCwXSwxUNJ78Oy1R1_TmAMgwE
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001259s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001501s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000962s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001216s ]
+NOTIC: [8] Undefined index: echostr F:\wamp\www\TP3.1.3\Test\Lib\Action\IndexAction.class.php 第 12 行.
+NOTIC: [8] Undefined variable: header F:\wamp\www\TP3.1.3\Test\Lib\Action\IndexAction.class.php 第 464 行.
+
+[ 2016-10-27T12:38:34+08:00 ] 10.21.71.124 /TP3.1.3/test.php/Index/index?signature=3a4a06788a4731e67ee4f15067158d65e41e77ac&timestamp=1477543107&nonce=1252818825&openid=o_GxCwXSwxUNJ78Oy1R1_TmAMgwE
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001195s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001509s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000893s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001157s ]
+NOTIC: [8] Undefined index: echostr F:\wamp\www\TP3.1.3\Test\Lib\Action\IndexAction.class.php 第 12 行.
+NOTIC: [8] Undefined variable: header F:\wamp\www\TP3.1.3\Test\Lib\Action\IndexAction.class.php 第 464 行.
+
+[ 2016-10-27T12:41:10+08:00 ] 10.21.71.124 /TP3.1.3/test.php/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000789s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000935s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000615s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000757s ]
+NOTIC: [8] Undefined index: nonce F:\wamp\www\TP3.1.3\Test\Lib\Action\IndexAction.class.php 第 9 行.
+NOTIC: [8] Undefined index: timestamp F:\wamp\www\TP3.1.3\Test\Lib\Action\IndexAction.class.php 第 11 行.
+NOTIC: [8] Undefined index: echostr F:\wamp\www\TP3.1.3\Test\Lib\Action\IndexAction.class.php 第 12 行.
+NOTIC: [8] Undefined index: signature F:\wamp\www\TP3.1.3\Test\Lib\Action\IndexAction.class.php 第 13 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA F:\wamp\www\TP3.1.3\Test\Lib\Action\IndexAction.class.php 第 32 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\TP3.1.3\Test\Lib\Action\IndexAction.class.php 第 35 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\TP3.1.3\Test\Lib\Action\IndexAction.class.php 第 81 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\TP3.1.3\Test\Lib\Action\IndexAction.class.php 第 108 行.
+
+[ 2016-10-27T16:13:19+08:00 ] 10.21.71.124 /TP3.1.3/test.php/Index/getBaseInfo?kaimen=true
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001419s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001704s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000948s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001198s ]
+
+[ 2016-10-27T16:13:22+08:00 ] 10.21.71.124 /TP3.1.3/test.php/Index/getUserOpenId?kaimen=true&code=04100Ogk0VgUMl1O0Bhk0M2Jgk000OgM&state=123
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000639s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000781s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000473s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000596s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `customer` [ RunTime:0.110935s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `customer` WHERE ( `openid` = 'o_GxCwXSwxUNJ78Oy1R1_TmAMgwE' ) LIMIT 1   [ RunTime:0.067927s ]
+
+[ 2016-10-27T16:13:39+08:00 ] 10.21.71.124 /TP3.1.3/test.php/Index/index?signature=ef889f1b992f56ba1cfb4aa8c422b4b34c43374a&timestamp=1477556019&nonce=1634451596&openid=o_GxCwXSwxUNJ78Oy1R1_TmAMgwE
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001185s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001471s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001209s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001524s ]
+NOTIC: [8] Undefined index: echostr F:\wamp\www\TP3.1.3\Test\Lib\Action\IndexAction.class.php 第 12 行.
+
+[ 2016-10-27T16:13:40+08:00 ] 10.21.71.124 /TP3.1.3/test.php/Index/getBaseInfo?kaimen=true
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001438s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001736s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001090s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001343s ]
+
+[ 2016-10-27T16:13:41+08:00 ] 10.21.71.124 /TP3.1.3/test.php/Index/getUserOpenId?kaimen=true&code=001ZgwuL1KHY8218BltL19xyuL1ZgwuC&state=123
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001499s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001870s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001254s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001595s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `customer` [ RunTime:0.020031s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `customer` WHERE ( `openid` = 'o_GxCwXSwxUNJ78Oy1R1_TmAMgwE' ) LIMIT 1   [ RunTime:0.000290s ]
+
+[ 2016-10-27T16:13:41+08:00 ] 10.21.71.124 /TP3.1.3/test.php/Index/getUserOpenId?kaimen=true&code=0019Zs8o0SAtNp1Sbd9o0ffv8o09Zs8v&state=123
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000832s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001036s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000686s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000883s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `customer` [ RunTime:0.004189s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `customer` WHERE ( `openid` = 'o_GxCwXSwxUNJ78Oy1R1_TmAMgwE' ) LIMIT 1   [ RunTime:0.000353s ]
+
+[ 2016-10-27T16:14:06+08:00 ] 10.21.71.124 /TP3.1.3/test.php/Index/getBaseInfo?kaimen=true
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001016s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001265s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000836s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001051s ]
+
+[ 2016-10-27T16:14:07+08:00 ] 10.21.71.124 /TP3.1.3/test.php/Index/getUserOpenId?kaimen=true&code=021cGYN61tZX8Q1p4TM61j33O61cGYNw&state=123
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001465s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001841s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001572s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002069s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `customer` [ RunTime:0.009624s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `customer` WHERE ( `openid` = 'o_GxCwXSwxUNJ78Oy1R1_TmAMgwE' ) LIMIT 1   [ RunTime:0.000658s ]
+
+[ 2016-10-27T16:14:08+08:00 ] 10.21.71.124 /TP3.1.3/test.php/Index/getUserOpenId?kaimen=true&code=011IAGBr1T2A5q0WOkAr1kVCBr1IAGBe&state=123
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000649s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000809s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000564s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000705s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `customer` [ RunTime:0.007079s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `customer` WHERE ( `openid` = 'o_GxCwXSwxUNJ78Oy1R1_TmAMgwE' ) LIMIT 1   [ RunTime:0.000652s ]
+
+[ 2016-10-27T16:14:32+08:00 ] 121.8.210.13 /TP3.1.3/test.php/Index/getBaseInfo?kaimen=true
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000763s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000976s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000560s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000703s ]
+
+[ 2016-10-27T16:15:20+08:00 ] 10.21.71.124 /TP3.1.3/test.php/Index/index?signature=bf0e4a6f3512522619bc9650215393ca54221c50&timestamp=1477556119&nonce=105975597&openid=o_GxCwdpypiT2-aiieEqx6e5_sFY
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000933s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001195s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000837s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001097s ]
+NOTIC: [8] Undefined index: echostr F:\wamp\www\TP3.1.3\Test\Lib\Action\IndexAction.class.php 第 12 行.
+
+[ 2016-10-27T16:15:37+08:00 ] 121.8.210.13 /TP3.1.3/test.php/Index/getBaseInfo?kaimen=true
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001264s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001572s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001002s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001207s ]
+
+[ 2016-10-27T16:15:43+08:00 ] 121.8.210.13 /TP3.1.3/test.php/Index/getUserOpenId?kaimen=true&code=011WaTms16D9Iq0HWzns1SfOms1WaTmP&state=123
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000766s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000907s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000598s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000726s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `customer` [ RunTime:0.003219s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `customer` WHERE ( `openid` = 'o_GxCwdpypiT2-aiieEqx6e5_sFY' ) LIMIT 1   [ RunTime:0.000318s ]
+
+[ 2016-10-27T16:15:44+08:00 ] 121.8.210.13 /TP3.1.3/test.php/Index/getUserDetail
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000875s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001090s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000545s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000683s ]
+
+[ 2016-10-27T16:15:51+08:00 ] 121.8.210.13 /TP3.1.3/test.php/Index/getUserInfo?code=041hZ0vn0pUU0p10nKxn0mI0vn0hZ0vF&state=123
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001180s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001556s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001507s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001919s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `customer` [ RunTime:0.005412s ]
+SQL: INSERT INTO `customer` (`openid`,`nickname`,`sex`,`headimgurl`) VALUES ('o_GxCwdpypiT2-aiieEqx6e5_sFY','废物锋orz',1,'http://wx.qlogo.cn/mmopen/vsACyXq1DBiar7jyP48W7BIxePiaicsicOYUhRddAjPGsTKOLHDElLfJPQVO7bnzgRtL8ibVe9tb4MTb3o9SL70NvMT20VExIycKS/0') [ RunTime:0.177509s ]
+
+[ 2016-10-27T16:16:23+08:00 ] 121.8.210.13 /TP3.1.3/test.php/Index/getBaseInfo?kaimen=true
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001437s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001903s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001222s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001569s ]
+
+[ 2016-10-27T16:16:25+08:00 ] 121.8.210.13 /TP3.1.3/test.php/Index/getUserOpenId?kaimen=true&code=041F3fB11bUZ4L1FpFC11F5aB11F3fBb&state=123
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001154s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001465s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000980s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001250s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `customer` [ RunTime:0.007160s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `customer` WHERE ( `openid` = 'o_GxCwdpypiT2-aiieEqx6e5_sFY' ) LIMIT 1   [ RunTime:0.000488s ]
+
+[ 2016-10-27T16:16:25+08:00 ] 10.21.71.124 /TP3.1.3/test.php/Index/getBaseInfo?kaimen=true
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001174s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001464s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001030s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001308s ]
+
+[ 2016-10-27T16:27:49+08:00 ] 10.21.71.124 /TP3.1.3/test.php/Index/getBaseInfo?kaimen=true
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000922s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001110s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000671s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000828s ]
+
+[ 2016-10-27T16:27:49+08:00 ] 10.21.71.124 /TP3.1.3/test.php/Index/getUserOpenId?kaimen=true&code=041YLQVk0cG2Am1gIgUk0l1RVk0YLQV4&state=123
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002072s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002457s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000721s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000950s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `customer` [ RunTime:0.027355s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `customer` WHERE ( `openid` = 'o_GxCwXSwxUNJ78Oy1R1_TmAMgwE' ) LIMIT 1   [ RunTime:0.000494s ]
+
+[ 2016-10-27T16:27:50+08:00 ] 10.21.71.124 /TP3.1.3/test.php/Index/getUserOpenId?kaimen=true&code=0015Ugce29fWcC0gFqee2Kchce25Ugct&state=123
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000582s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000741s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000508s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000655s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `customer` [ RunTime:0.026110s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `customer` WHERE ( `openid` = 'o_GxCwXSwxUNJ78Oy1R1_TmAMgwE' ) LIMIT 1   [ RunTime:0.000300s ]
+
+[ 2016-10-27T16:28:02+08:00 ] 10.21.71.124 /TP3.1.3/test.php/Index/index?signature=12e7552bc0a66b21be3daf611db269c4449ea313&timestamp=1477556882&nonce=10158067&openid=o_GxCwXSwxUNJ78Oy1R1_TmAMgwE
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002433s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003036s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002952s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003757s ]
+NOTIC: [8] Undefined index: echostr F:\wamp\www\TP3.1.3\Test\Lib\Action\IndexAction.class.php 第 12 行.
+
+[ 2016-10-27T16:28:02+08:00 ] 10.21.71.124 /TP3.1.3/test.php/Index/getBaseInfo?kaimen=false
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001162s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001444s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000842s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001042s ]
+
+[ 2016-10-27T16:28:03+08:00 ] 10.21.71.124 /TP3.1.3/test.php/Index/getUserOpenId?kaimen=false&code=0216yIAK07Dsp42KlZyK0K0LAK06yIA0&state=123
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000962s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001225s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000575s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000718s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `customer` [ RunTime:0.004662s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `customer` WHERE ( `openid` = 'o_GxCwXSwxUNJ78Oy1R1_TmAMgwE' ) LIMIT 1   [ RunTime:0.000420s ]
+
+[ 2016-10-27T16:28:04+08:00 ] 10.21.71.124 /TP3.1.3/test.php/Index/getUserOpenId?kaimen=false&code=0211NTKB0yndKd2qHpOB05qRKB01NTKJ&state=123
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001010s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001291s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000810s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001016s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `customer` [ RunTime:0.020465s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `customer` WHERE ( `openid` = 'o_GxCwXSwxUNJ78Oy1R1_TmAMgwE' ) LIMIT 1   [ RunTime:0.000328s ]
+
+[ 2016-10-27T16:29:43+08:00 ] 10.21.71.124 /TP3.1.3/test.php/Index/index?signature=098504d2f925694dad7b8c5e676b73b3fddc4391&timestamp=1477556983&nonce=276892031&openid=o_GxCwWDLGH7rqw3RR9z6BgkAIik
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000746s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000933s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000602s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000767s ]
+NOTIC: [8] Undefined index: echostr F:\wamp\www\TP3.1.3\Test\Lib\Action\IndexAction.class.php 第 12 行.
+
+[ 2016-10-27T16:30:04+08:00 ] 121.8.210.58 /TP3.1.3/test.php/Index/getBaseInfo?kaimen=true
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001067s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001270s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000809s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001046s ]
+
+[ 2016-10-27T16:30:06+08:00 ] 121.8.210.58 /TP3.1.3/test.php/Index/getUserOpenId?kaimen=true&code=011uJDJO1v1qo51xp8LO1PCHJO1uJDJq&state=123
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001022s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001269s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000855s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001116s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `customer` [ RunTime:0.009875s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `customer` WHERE ( `openid` = 'o_GxCwWDLGH7rqw3RR9z6BgkAIik' ) LIMIT 1   [ RunTime:0.000971s ]
+
+[ 2016-10-27T16:30:07+08:00 ] 121.8.210.27 /TP3.1.3/test.php/Index/getUserDetail?kaimen=true
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001285s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001586s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001318s ]
+
+[ 2016-10-27T16:30:11+08:00 ] 121.8.210.27 /TP3.1.3/test.php/Index/getUserInfo?kaimen=true&code=001JcnAg2WAIAE06xlAg2EHkAg2JcnAR&state=123
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000725s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000900s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000580s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000733s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `customer` [ RunTime:0.005197s ]
+SQL: INSERT INTO `customer` (`openid`,`nickname`,`sex`,`headimgurl`) VALUES ('o_GxCwWDLGH7rqw3RR9z6BgkAIik','煎鱼',1,'http://wx.qlogo.cn/mmopen/ajNVdqHZLLBHDZlXBCmhGBtNWkIBF7Ky2U1HVntldvyWTc6Rnfl6fHIO4RDDFHK4Rur29Ms0icYaydkUwKE0ZLg/0') [ RunTime:0.111969s ]
+
+[ 2016-10-27T16:30:28+08:00 ] 121.8.210.27 /TP3.1.3/test.php/Index/getBaseInfo?kaimen=true
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001025s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001271s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001049s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001283s ]
+
+[ 2016-10-27T16:30:30+08:00 ] 121.8.210.27 /TP3.1.3/test.php/Index/getUserOpenId?kaimen=true&code=031eYk2r1Rhowp0rz53r129i2r1eYk2l&state=123
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001164s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001462s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000979s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001230s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `customer` [ RunTime:0.036947s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `customer` WHERE ( `openid` = 'o_GxCwWDLGH7rqw3RR9z6BgkAIik' ) LIMIT 1   [ RunTime:0.000882s ]
+
+[ 2016-10-27T16:30:51+08:00 ] 121.8.210.27 /TP3.1.3/test.php/Index/getBaseInfo?kaimen=true
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002036s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002585s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000781s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+
+[ 2016-10-27T16:30:53+08:00 ] 121.8.210.27 /TP3.1.3/test.php/Index/getUserOpenId?kaimen=true&code=00133aw60C9dmI15a6v60pKdw6033awX&state=123
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001701s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002096s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001693s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002084s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `customer` [ RunTime:0.007681s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `customer` WHERE ( `openid` = 'o_GxCwWDLGH7rqw3RR9z6BgkAIik' ) LIMIT 1   [ RunTime:0.000536s ]
+
+[ 2016-10-27T16:31:06+08:00 ] 121.8.210.27 /TP3.1.3/test.php/Index/getBaseInfo?kaimen=true
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000959s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001164s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000699s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000880s ]
+
+[ 2016-10-27T16:31:09+08:00 ] 121.8.210.27 /TP3.1.3/test.php/Index/getUserOpenId?kaimen=true&code=001pIDKi0MODpk1NJnNi0ptHKi0pIDK9&state=123
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002783s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003399s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001781s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002317s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `customer` [ RunTime:0.013251s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `customer` WHERE ( `openid` = 'o_GxCwWDLGH7rqw3RR9z6BgkAIik' ) LIMIT 1   [ RunTime:0.000481s ]
+
+[ 2016-10-27T16:33:08+08:00 ] 10.21.71.124 /TP3.1.3/test.php/Index/getUserDetail?kaimen=true
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001892s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002177s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001564s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001823s ]
+
+[ 2016-10-27T16:33:16+08:00 ] 10.21.71.124 /TP3.1.3/test.php/Index/getUserInfo?kaimen=true
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001735s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001965s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001459s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001720s ]
+NOTIC: [8] Undefined index: code F:\wamp\www\TP3.1.3\Test\Lib\Action\IndexAction.class.php 第 397 行.
+NOTIC: [8] Undefined index: openid F:\wamp\www\TP3.1.3\Test\Lib\Action\IndexAction.class.php 第 400 行.
+NOTIC: [8] Undefined index: access_token F:\wamp\www\TP3.1.3\Test\Lib\Action\IndexAction.class.php 第 401 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `customer` [ RunTime:0.043462s ]
+NOTIC: [8] Undefined index: openid F:\wamp\www\TP3.1.3\Test\Lib\Action\IndexAction.class.php 第 405 行.
+NOTIC: [8] Undefined index: nickname F:\wamp\www\TP3.1.3\Test\Lib\Action\IndexAction.class.php 第 406 行.
+NOTIC: [8] Undefined index: sex F:\wamp\www\TP3.1.3\Test\Lib\Action\IndexAction.class.php 第 407 行.
+NOTIC: [8] Undefined index: headimgurl F:\wamp\www\TP3.1.3\Test\Lib\Action\IndexAction.class.php 第 408 行.
+SQL: INSERT INTO `customer` (`openid`,`nickname`,`sex`,`headimgurl`) VALUES (null,null,null,null) [ RunTime:0.215039s ]
+ERR: 1048:Column 'openid' cannot be null
+ [ SQL语句 ] : INSERT INTO `customer` (`openid`,`nickname`,`sex`,`headimgurl`) VALUES (null,null,null,null)
+
+[ 2016-10-27T16:45:29+08:00 ] 10.21.71.124 /TP3.1.3/test.php/Index/index?signature=a45523d7c9582f6af1453b93f32cabb5fd52c964&timestamp=1477557929&nonce=1130298817&openid=o_GxCwTmxgVSjBRbvFluMZLCiviA
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001757s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002037s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001302s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001543s ]
+NOTIC: [8] Undefined index: echostr F:\wamp\www\TP3.1.3\Test\Lib\Action\IndexAction.class.php 第 12 行.
+
+[ 2016-10-27T16:45:52+08:00 ] 10.21.71.124 /TP3.1.3/test.php/Index/index?signature=236cd88d9878f13163fcfc7b9e2fa3ed8eb2d856&timestamp=1477557952&nonce=292616897&openid=o_GxCwTmxgVSjBRbvFluMZLCiviA
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003749s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004444s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001975s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002521s ]
+NOTIC: [8] Undefined index: echostr F:\wamp\www\TP3.1.3\Test\Lib\Action\IndexAction.class.php 第 12 行.
+
+[ 2016-10-27T16:45:53+08:00 ] 117.136.32.99 /TP3.1.3/test.php/Index/getBaseInfo?kaimen=true
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001289s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001515s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001378s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001658s ]
+
+[ 2016-10-27T16:46:04+08:00 ] 117.136.32.99 /TP3.1.3/test.php/Index/getBaseInfo?kaimen=true
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001470s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001720s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001155s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001352s ]
+
+[ 2016-10-27T16:46:07+08:00 ] 117.136.32.99 /TP3.1.3/test.php/Index/getUserOpenId?kaimen=true&code=031sAHIB0BFdzd2CpFIB0YUIIB0sAHIa&state=123
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001538s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001806s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001231s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001455s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `customer` [ RunTime:0.010119s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `customer` WHERE ( `openid` = 'o_GxCwTmxgVSjBRbvFluMZLCiviA' ) LIMIT 1   [ RunTime:0.000727s ]
+
+[ 2016-10-27T16:46:09+08:00 ] 117.136.32.99 /TP3.1.3/test.php/Index/getUserDetail?kaimen=true
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004059s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004873s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001081s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001281s ]
+
+[ 2016-10-27T16:46:18+08:00 ] 117.136.32.99 /TP3.1.3/test.php/Index/getUserInfo?kaimen=true&code=031Lh6wW0gqcaY1iWwxW0hOZvW0Lh6wY&state=123
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001515s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001762s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000794s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000941s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `customer` [ RunTime:0.128422s ]
+SQL: INSERT INTO `customer` (`openid`,`nickname`,`sex`,`headimgurl`) VALUES ('o_GxCwTmxgVSjBRbvFluMZLCiviA','YY张荣跃',1,'http://wx.qlogo.cn/mmopen/ibv6yXdJUBlzaw4esOTRRD6oahlqHxD7PE8ibkCwbQMsl5P0PEQbIUM35ez8pu59g3jA5vRjBNmUrrQaW6VqaMAnfq6XbzoO8D/0') [ RunTime:0.151274s ]
+
+[ 2016-10-27T16:46:53+08:00 ] 117.136.32.99 /TP3.1.3/test.php/Index/getUserInfo?kaimen=true&code=011F1eSO1k2lw51fFPRO1bedSO1F1eS4&state=123
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000914s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001088s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000879s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001039s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `customer` [ RunTime:0.004947s ]
+SQL: INSERT INTO `customer` (`openid`,`nickname`,`sex`,`headimgurl`) VALUES ('o_GxCwTmxgVSjBRbvFluMZLCiviA','YY张荣跃',1,'http://wx.qlogo.cn/mmopen/ibv6yXdJUBlzaw4esOTRRD6oahlqHxD7PE8ibkCwbQMsl5P0PEQbIUM35ez8pu59g3jA5vRjBNmUrrQaW6VqaMAnfq6XbzoO8D/0') [ RunTime:0.000279s ]
+ERR: 1062:Duplicate entry 'o_GxCwTmxgVSjBRbvFluMZLCiviA' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `customer` (`openid`,`nickname`,`sex`,`headimgurl`) VALUES ('o_GxCwTmxgVSjBRbvFluMZLCiviA','YY张荣跃',1,'http://wx.qlogo.cn/mmopen/ibv6yXdJUBlzaw4esOTRRD6oahlqHxD7PE8ibkCwbQMsl5P0PEQbIUM35ez8pu59g3jA5vRjBNmUrrQaW6VqaMAnfq6XbzoO8D/0')
+
+[ 2016-10-27T16:47:10+08:00 ] 117.136.32.99 /TP3.1.3/test.php/Index/getBaseInfo?kaimen=true
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001259s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001494s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000796s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000945s ]
+
+[ 2016-10-27T16:47:13+08:00 ] 117.136.32.99 /TP3.1.3/test.php/Index/getUserOpenId?kaimen=true&code=021fvXog0rhv5A1yQ1sg0iaXog0fvXoc&state=123
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000951s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001133s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000805s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000953s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `customer` [ RunTime:0.011372s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `customer` WHERE ( `openid` = 'o_GxCwTmxgVSjBRbvFluMZLCiviA' ) LIMIT 1   [ RunTime:0.000376s ]
+
+[ 2016-10-27T16:47:59+08:00 ] 117.136.32.99 /TP3.1.3/test.php/Index/getBaseInfo?kaimen=true
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001060s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001259s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000834s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000979s ]
+
+[ 2016-10-27T16:48:00+08:00 ] 117.136.32.99 /TP3.1.3/test.php/Index/getUserOpenId?kaimen=true&code=031GcaZO0OECN820OL0P0cxbZO0GcaZ5&state=123
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001436s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001712s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000891s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001075s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `customer` [ RunTime:0.004894s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `customer` WHERE ( `openid` = 'o_GxCwTmxgVSjBRbvFluMZLCiviA' ) LIMIT 1   [ RunTime:0.000389s ]
+
+[ 2016-10-27T16:48:57+08:00 ] 117.136.32.99 /TP3.1.3/test.php/Index/getBaseInfo?kaimen=true
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001162s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001381s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000807s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000951s ]
+
+[ 2016-10-27T16:48:59+08:00 ] 117.136.32.99 /TP3.1.3/test.php/Index/getUserOpenId?kaimen=true&code=011MKekT1gnPP91d1CmT1p5fkT1MKekY&state=123
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001625s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001874s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000956s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001159s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `customer` [ RunTime:0.004584s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `customer` WHERE ( `openid` = 'o_GxCwTmxgVSjBRbvFluMZLCiviA' ) LIMIT 1   [ RunTime:0.000366s ]
+
+[ 2016-10-27T16:50:08+08:00 ] 10.21.71.124 /TP3.1.3/test.php/Index/index?signature=8ae252cd57c37be502b08c4aa264689265038ffc&timestamp=1477558209&nonce=1481092312&openid=o_GxCwTmxgVSjBRbvFluMZLCiviA
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001021s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001191s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000823s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000971s ]
+NOTIC: [8] Undefined index: echostr F:\wamp\www\TP3.1.3\Test\Lib\Action\IndexAction.class.php 第 12 行.
+
+[ 2016-10-27T16:50:10+08:00 ] 117.136.32.99 /TP3.1.3/test.php/Index/getBaseInfo?kaimen=true
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000829s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000990s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000902s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001108s ]
+
+[ 2016-10-27T16:50:12+08:00 ] 117.136.32.99 /TP3.1.3/test.php/Index/getUserOpenId?kaimen=true&code=0318cNus1hxCQq0szlws16dPus18cNul&state=123
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000650s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000877s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000768s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000957s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `customer` [ RunTime:0.004902s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `customer` WHERE ( `openid` = 'o_GxCwTmxgVSjBRbvFluMZLCiviA' ) LIMIT 1   [ RunTime:0.000353s ]
+
+[ 2016-10-27T17:02:43+08:00 ] 121.8.210.44 /TP3.1.3/test.php/Index/getBaseInfo?kaimen=true
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001477s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001738s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001248s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001472s ]
+
+[ 2016-10-27T17:02:50+08:00 ] 121.8.210.44 /TP3.1.3/test.php/Index/getUserOpenId?kaimen=true&code=04164oOf22aMXD0PRNRf2kWhOf264oOS&state=123
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000974s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001137s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000819s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000965s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `customer` [ RunTime:0.050102s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `customer` WHERE ( `openid` = 'o_GxCwYPBTa2tx5Kod6QsTu2iaPQ' ) LIMIT 1   [ RunTime:0.000831s ]
+
+[ 2016-10-27T17:02:59+08:00 ] 10.21.71.124 /TP3.1.3/test.php/Index/getUserOpenId?kaimen=true&code=04164oOf22aMXD0PRNRf2kWhOf264oOS&state=123
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002186s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002550s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002117s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002474s ]
+NOTIC: [8] Undefined index: openid F:\wamp\www\TP3.1.3\Test\Lib\Action\IndexAction.class.php 第 334 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `customer` [ RunTime:0.008498s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `customer` WHERE ( `openid` = null ) LIMIT 1   [ RunTime:0.057464s ]
+
+[ 2016-10-27T17:03:00+08:00 ] 10.21.71.124 /TP3.1.3/test.php/Index/getUserDetail?kaimen=true
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001181s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001395s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000993s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001178s ]
+
+[ 2016-10-27T17:03:05+08:00 ] 121.8.210.44 /TP3.1.3/test.php/Index/getUserInfo?kaimen=true&code=011dDmWV0dzqAX19mjYV0SUfWV0dDmWi&state=123
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001288s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001514s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001420s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001664s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `customer` [ RunTime:0.005258s ]
+SQL: INSERT INTO `customer` (`openid`,`nickname`,`sex`,`headimgurl`) VALUES ('o_GxCwYPBTa2tx5Kod6QsTu2iaPQ','钙世英雄',2,'http://wx.qlogo.cn/mmopen/ibv6yXdJUBlw3ACibyf9bkI4sSSDvLqAUJEo5Lic1icv0efcY0uBxdic7lWyEy0a0AbOKIMCEy48QibWLicYTherqvbPfTR5qLb1kj6/0') [ RunTime:0.086305s ]
+
+[ 2016-10-27T17:06:00+08:00 ] 10.21.71.124 /TP3.1.3/test.php/Index/getUserDetail?kaimen=true
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002413s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002911s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002392s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002735s ]
+
+[ 2016-10-27T17:06:03+08:00 ] 10.21.71.124 /TP3.1.3/test.php/Index/getUserDetail?kaimen=true
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001297s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001507s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001057s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001252s ]
+
+[ 2016-10-27T17:06:07+08:00 ] 10.21.71.124 /TP3.1.3/test.php/Index/getUserDetail?kaimen=true
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001459s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001717s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000816s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000966s ]
+
+[ 2016-10-27T17:06:07+08:00 ] 10.21.71.124 /TP3.1.3/test.php/Index/getUserDetail?kaimen=true
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001225s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001422s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001009s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001164s ]
+
+[ 2016-10-27T17:13:02+08:00 ] 10.21.71.124 /TP3.1.3/test.php/Index/index?signature=1ccd8e6296d8441cdea83d921d93fcc648ded18a&timestamp=1477559582&nonce=1009328716&openid=o_GxCwXSwxUNJ78Oy1R1_TmAMgwE
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001031s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001180s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000818s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000947s ]
+NOTIC: [8] Undefined index: echostr F:\wamp\www\TP3.1.3\Test\Lib\Action\IndexAction.class.php 第 12 行.
+
+[ 2016-10-27T17:13:02+08:00 ] 10.21.71.124 /TP3.1.3/test.php/Index/getBaseInfo?kaimen=true
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003347s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003733s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002143s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002497s ]
+
+[ 2016-10-27T17:13:04+08:00 ] 10.21.71.124 /TP3.1.3/test.php/Index/getUserOpenId?kaimen=true&code=04158RgI1tuAh60RpYeI12MYgI158RgG&state=123
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001412s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001656s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001475s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001770s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `customer` [ RunTime:0.005631s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `customer` WHERE ( `openid` = 'o_GxCwXSwxUNJ78Oy1R1_TmAMgwE' ) LIMIT 1   [ RunTime:0.000489s ]
+
+[ 2016-10-27T17:13:05+08:00 ] 10.21.71.124 /TP3.1.3/test.php/Index/getUserOpenId?kaimen=true&code=031fHUdB17bkyh01V6hB1p2VdB1fHUd3&state=123
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001806s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002117s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001725s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001976s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `customer` [ RunTime:0.005572s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `customer` WHERE ( `openid` = 'o_GxCwXSwxUNJ78Oy1R1_TmAMgwE' ) LIMIT 1   [ RunTime:0.000506s ]
+
+[ 2016-10-27T17:15:37+08:00 ] 10.21.71.124 /TP3.1.3/test.php/Index/index?signature=20fcaecab923ef5d09c8db633c9d421185d8905a&timestamp=1477559736&nonce=1673647670&openid=o_GxCwXSwxUNJ78Oy1R1_TmAMgwE
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002672s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003020s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001673s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001952s ]
+NOTIC: [8] Undefined index: echostr F:\wamp\www\TP3.1.3\Test\Lib\Action\IndexAction.class.php 第 12 行.
+
+[ 2016-10-27T17:15:38+08:00 ] 10.21.71.124 /TP3.1.3/test.php/Index/getBaseInfo?kaimen=true
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001143s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001410s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000959s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001127s ]
+
+[ 2016-10-27T17:15:42+08:00 ] 10.21.71.124 /TP3.1.3/test.php/Index/getUserOpenId?kaimen=true&code=0410asW42JWM7L0ZNEX42RJtW420asWR&state=123
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002146s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002573s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001504s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001764s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `customer` [ RunTime:0.007782s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `customer` WHERE ( `openid` = 'o_GxCwXSwxUNJ78Oy1R1_TmAMgwE' ) LIMIT 1   [ RunTime:0.000569s ]
+
+[ 2016-10-27T17:15:42+08:00 ] 10.21.71.124 /TP3.1.3/test.php/Index/getUserOpenId?kaimen=true&code=021MEPFZ1TN9aY0RjWEZ10SOFZ1MEPF7&state=123
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001484s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001749s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000951s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001123s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `customer` [ RunTime:0.005834s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `customer` WHERE ( `openid` = 'o_GxCwXSwxUNJ78Oy1R1_TmAMgwE' ) LIMIT 1   [ RunTime:0.000411s ]
+
+[ 2016-10-27T17:16:22+08:00 ] 10.21.71.124 /TP3.1.3/test.php/Index/index?signature=39b68b90a2c87dc6724569d2560b0e738354a6b3&timestamp=1477559782&nonce=1335113054&openid=o_GxCwXSwxUNJ78Oy1R1_TmAMgwE
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001913s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002173s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001379s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001620s ]
+NOTIC: [8] Undefined index: echostr F:\wamp\www\TP3.1.3\Test\Lib\Action\IndexAction.class.php 第 12 行.
+
+[ 2016-10-27T17:20:30+08:00 ] 10.21.71.124 /TP3.1.3/test.php/Index/index?signature=e06eb04a108fc805e1138b3c4cb716637e6f7e9f&timestamp=1477560029&nonce=1910835123&openid=o_GxCwXSwxUNJ78Oy1R1_TmAMgwE
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001077s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001266s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000924s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001092s ]
+NOTIC: [8] Undefined index: echostr F:\wamp\www\TP3.1.3\Test\Lib\Action\IndexAction.class.php 第 12 行.
+
+[ 2016-10-27T17:20:31+08:00 ] 10.21.71.124 /TP3.1.3/test.php/Index/getBaseInfo?kaimen=false
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002356s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002779s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002044s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002401s ]
+
+[ 2016-10-27T17:20:35+08:00 ] 10.21.71.124 /TP3.1.3/test.php/Index/getUserOpenId?kaimen=false&code=001KbUKa29zC4R0KY9Ka2wwRKa2KbUKe&state=123
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003515s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004074s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000926s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001089s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `customer` [ RunTime:0.004839s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `customer` WHERE ( `openid` = 'o_GxCwXSwxUNJ78Oy1R1_TmAMgwE' ) LIMIT 1   [ RunTime:0.000339s ]
+
+[ 2016-10-27T17:20:35+08:00 ] 10.21.71.124 /TP3.1.3/test.php/Index/getUserOpenId?kaimen=false&code=011l6qfD0oRB5f21r9gD0BDkfD0l6qf9&state=123
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005199s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006048s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000917s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001068s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `customer` [ RunTime:0.009404s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `customer` WHERE ( `openid` = 'o_GxCwXSwxUNJ78Oy1R1_TmAMgwE' ) LIMIT 1   [ RunTime:0.000801s ]
+
+[ 2016-10-27T17:21:00+08:00 ] 10.21.71.124 /TP3.1.3/test.php/Index/index?signature=0478f0ab1c77079faca625bfc2e2d8d164cb4180&timestamp=1477560058&nonce=1316329024&openid=o_GxCwXSwxUNJ78Oy1R1_TmAMgwE
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001334s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001607s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001096s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001293s ]
+NOTIC: [8] Undefined index: echostr F:\wamp\www\TP3.1.3\Test\Lib\Action\IndexAction.class.php 第 12 行.
+NOTIC: [8] Undefined variable: header F:\wamp\www\TP3.1.3\Test\Lib\Action\IndexAction.class.php 第 500 行.
+
+[ 2016-10-27T17:21:22+08:00 ] 10.21.71.124 /TP3.1.3/test.php/Index/getBaseInfo?kaimen=true
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001500s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001760s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001156s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001367s ]
+
+[ 2016-10-27T17:21:24+08:00 ] 10.21.71.124 /TP3.1.3/test.php/Index/getUserOpenId?kaimen=true&code=021eJZ7M0ckwW52wDf8M0uM28M0eJZ7O&state=123
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001319s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001549s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001152s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001361s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `customer` [ RunTime:0.026659s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `customer` WHERE ( `openid` = 'o_GxCwXSwxUNJ78Oy1R1_TmAMgwE' ) LIMIT 1   [ RunTime:0.000739s ]
+
+[ 2016-10-27T17:36:49+08:00 ] 10.21.71.124 /TP3.1.3/test.php/Index/getBaseInfo?kaimen=true
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001915s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002195s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001068s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001257s ]
+
+[ 2016-10-27T17:36:50+08:00 ] 10.21.71.124 /TP3.1.3/test.php/Index/getUserOpenId?kaimen=true&code=03117fPb1l8uts0pMXNb1jRdPb117fPz&state=123
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001196s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001401s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001030s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001212s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `customer` [ RunTime:0.012927s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `customer` WHERE ( `openid` = 'o_GxCwXSwxUNJ78Oy1R1_TmAMgwE' ) LIMIT 1   [ RunTime:0.000406s ]
+
+[ 2016-10-27T17:36:50+08:00 ] 10.21.71.124 /TP3.1.3/test.php/Index/getUserOpenId?kaimen=true&code=001apiPB0K6MFd296UQB0Q2jPB0apiP7&state=123
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001191s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001394s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001029s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001213s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `customer` [ RunTime:0.005296s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `customer` WHERE ( `openid` = 'o_GxCwXSwxUNJ78Oy1R1_TmAMgwE' ) LIMIT 1   [ RunTime:0.000381s ]
+
+[ 2016-10-27T17:41:39+08:00 ] 10.21.71.124 /TP3.1.3/test.php/Index/index?signature=dd490122722bf8f3ff4bbfaf0c3674bb73c3d4a6&timestamp=1477561299&nonce=2075111574&openid=o_GxCwXSwxUNJ78Oy1R1_TmAMgwE
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001130s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001323s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000925s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001091s ]
+NOTIC: [8] Undefined index: echostr F:\wamp\www\TP3.1.3\Test\Lib\Action\IndexAction.class.php 第 12 行.
+
+[ 2016-10-27T17:41:40+08:00 ] 10.21.71.124 /TP3.1.3/test.php/Index/index?signature=282f25538b2d78ac84bc47ae6d0c8b41f2d97b14&timestamp=1477561300&nonce=1681473091&openid=o_GxCwXSwxUNJ78Oy1R1_TmAMgwE
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001685s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002004s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002654s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003163s ]
+NOTIC: [8] Undefined index: echostr F:\wamp\www\TP3.1.3\Test\Lib\Action\IndexAction.class.php 第 12 行.
+
+[ 2016-10-27T17:41:40+08:00 ] 10.21.71.124 /TP3.1.3/test.php/Index/getBaseInfo?kaimen=false
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001040s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001251s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000883s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001060s ]
+
+[ 2016-10-27T17:41:42+08:00 ] 10.21.71.124 /TP3.1.3/test.php/Index/getUserOpenId?kaimen=false&code=0412cFR52WzNbM0G8zR52H8HR522cFRu&state=123
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003354s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003937s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001029s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001302s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `customer` [ RunTime:0.005841s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `customer` WHERE ( `openid` = 'o_GxCwXSwxUNJ78Oy1R1_TmAMgwE' ) LIMIT 1   [ RunTime:0.000440s ]
+
+[ 2016-10-27T18:18:25+08:00 ] 10.21.71.124 /TP3.1.3/test.php/Index/getBaseInfo?kaimen=false
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001584s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001846s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001771s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002089s ]
+
+[ 2016-10-27T18:18:26+08:00 ] 10.21.71.124 /TP3.1.3/test.php/Index/index?signature=e78b5b5c04db07d5681fae8782005c32cc4864b1&timestamp=1477563506&nonce=503036242&openid=o_GxCwXSwxUNJ78Oy1R1_TmAMgwE
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002138s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002488s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001391s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001703s ]
+NOTIC: [8] Undefined index: echostr F:\wamp\www\TP3.1.3\Test\Lib\Action\IndexAction.class.php 第 12 行.
+
+[ 2016-10-27T18:18:32+08:00 ] 10.21.71.124 /TP3.1.3/test.php/Index/index?signature=d85d8185c726ba0aedbd3fdf674a20fba8857ab5&timestamp=1477563511&nonce=1858525519&openid=o_GxCwXSwxUNJ78Oy1R1_TmAMgwE
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001666s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001944s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead F:\wamp\www\TP3.1.3\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001409s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001685s ]
+NOTIC: [8] Undefined index: echostr F:\wamp\www\TP3.1.3\Test\Lib\Action\IndexAction.class.php 第 12 行.
+NOTIC: [8] Undefined variable: header F:\wamp\www\TP3.1.3\Test\Lib\Action\IndexAction.class.php 第 500 行.
+
